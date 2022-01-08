@@ -1,5 +1,5 @@
-# Smile-Detection-Algo
-Smile Detector - using OpenCV to detect smiling faces in a video or in live webcam. 
+# Smile-Detection
+Smile Detector - using OpenCV to detect smiling faces in a in live webcam. 
 
 The primary objective of the current project is to detect smiling of the user using haar_cascade dataset provided and distributed with OpenCV.
 
